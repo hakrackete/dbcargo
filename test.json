@@ -1,0 +1,462 @@
+[
+    {
+        "compositionEndWeekdays": [
+            "Tuesday"
+        ],
+        "compositionEndTimeOfDay": 55800,
+        "decompositionEndWeekdays": [
+            "Thursday"
+        ],
+        "decompositionEndTimeOfDay": 49140,
+        "runDuration": 166140,
+        "runLength": 597967,
+        "transportplanElements": [
+            {
+                "blockName": "LLW.0010-LHG-1-53358-1",
+                "fromInfrastructureLocation": {
+                    "code": "LLW",
+                    "countryNumber": "80",
+                    "locationNumber": "234575",
+                    "freightCarLocationNumber": null,
+                    "name": "Leipzig-Wahren",
+                    "latitude": 51.380421,
+                    "longitude": 12.322542,
+                    "objectKeyAlpha": "LEIPZIG-WAHREN",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "16279",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "LHG",
+                    "countryNumber": "80",
+                    "locationNumber": "230011",
+                    "freightCarLocationNumber": null,
+                    "name": "Halle (Saale) Gbf",
+                    "latitude": 51.483539,
+                    "longitude": 11.986633,
+                    "objectKeyAlpha": "HALLE(SAALE) GBF",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14325",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Tuesday"
+                ],
+                "compositionEndTimeOfDay": 55800,
+                "departureWeekdays": [
+                    "Tuesday"
+                ],
+                "departureTimeOfDay": 75780,
+                "arrivalWeekdays": [
+                    "Tuesday"
+                ],
+                "arrivalTimeOfDay": 78300,
+                "decompositionEndWeekdays": [
+                    "Tuesday"
+                ],
+                "decompositionEndTimeOfDay": 80460,
+                "runDuration": 24660,
+                "runLength": 27811,
+                "trainsetLength": 300,
+                "trainsetWeight": 700,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "53358",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "56.1"
+            },
+            {
+                "blockName": "LHG-HSR A-3-51810-1",
+                "fromInfrastructureLocation": {
+                    "code": "LHG",
+                    "countryNumber": "80",
+                    "locationNumber": "230011",
+                    "freightCarLocationNumber": null,
+                    "name": "Halle (Saale) Gbf",
+                    "latitude": 51.483539,
+                    "longitude": 11.986633,
+                    "objectKeyAlpha": "HALLE(SAALE) GBF",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14325",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "HSR A",
+                    "countryNumber": "80",
+                    "locationNumber": "135863",
+                    "freightCarLocationNumber": null,
+                    "name": "SEELZE RBF OST",
+                    "latitude": 52.3923,
+                    "longitude": 9.62271,
+                    "objectKeyAlpha": "SEELZE OST",
+                    "objectKeySequence": 2,
+                    "tafTsiPrimaryCode": null,
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Wednesday"
+                ],
+                "compositionEndTimeOfDay": 18000,
+                "departureWeekdays": [
+                    "Wednesday"
+                ],
+                "departureTimeOfDay": 27420,
+                "arrivalWeekdays": [
+                    "Wednesday"
+                ],
+                "arrivalTimeOfDay": 42780,
+                "decompositionEndWeekdays": [
+                    "Wednesday"
+                ],
+                "decompositionEndTimeOfDay": 48600,
+                "runDuration": 30600,
+                "runLength": 250029,
+                "trainsetLength": 610,
+                "trainsetWeight": 1600,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "51810",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            },
+            {
+                "blockName": "HSR A-EHGV-51122-1",
+                "fromInfrastructureLocation": {
+                    "code": "HSR A",
+                    "countryNumber": "80",
+                    "locationNumber": "135863",
+                    "freightCarLocationNumber": null,
+                    "name": "SEELZE RBF OST",
+                    "latitude": 52.3923,
+                    "longitude": 9.62271,
+                    "objectKeyAlpha": "SEELZE OST",
+                    "objectKeySequence": 2,
+                    "tafTsiPrimaryCode": null,
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "EHGV",
+                    "countryNumber": "80",
+                    "locationNumber": "080655",
+                    "freightCarLocationNumber": null,
+                    "name": "Hagen-Vorhalle",
+                    "latitude": 51.388203,
+                    "longitude": 7.433703,
+                    "objectKeyAlpha": "HAGEN-VORHALLE",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14267",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Wednesday"
+                ],
+                "compositionEndTimeOfDay": -8100,
+                "departureWeekdays": [
+                    "Thursday"
+                ],
+                "departureTimeOfDay": 4020,
+                "arrivalWeekdays": [
+                    "Thursday"
+                ],
+                "arrivalTimeOfDay": 18480,
+                "decompositionEndWeekdays": [
+                    "Thursday"
+                ],
+                "decompositionEndTimeOfDay": 21360,
+                "runDuration": 29460,
+                "runLength": 223434,
+                "trainsetLength": 700,
+                "trainsetWeight": 2370,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "51122",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            },
+            {
+                "blockName": "EHGV-EKT-2-[Ort]-51321-1",
+                "fromInfrastructureLocation": {
+                    "code": "EHGV",
+                    "countryNumber": "80",
+                    "locationNumber": "080655",
+                    "freightCarLocationNumber": null,
+                    "name": "Hagen-Vorhalle",
+                    "latitude": 51.388203,
+                    "longitude": 7.433703,
+                    "objectKeyAlpha": "HAGEN-VORHALLE",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14267",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "EKT",
+                    "countryNumber": "80",
+                    "locationNumber": "082560",
+                    "freightCarLocationNumber": null,
+                    "name": "Kreuztal",
+                    "latitude": 50.95603,
+                    "longitude": 7.991842,
+                    "objectKeyAlpha": "KREUZTAL",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "15896",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Thursday"
+                ],
+                "compositionEndTimeOfDay": 30300,
+                "departureWeekdays": [
+                    "Thursday"
+                ],
+                "departureTimeOfDay": 39600,
+                "arrivalWeekdays": [
+                    "Thursday"
+                ],
+                "arrivalTimeOfDay": 48540,
+                "decompositionEndWeekdays": [
+                    "Thursday"
+                ],
+                "decompositionEndTimeOfDay": 49140,
+                "runDuration": 18840,
+                "runLength": 96693,
+                "trainsetLength": 550,
+                "trainsetWeight": 1970,
+                "maxVelocity": 25,
+                "trainNumber": "51321",
+                "combinedTrafficCoding": "P/C375",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            }
+        ]
+    },
+    {
+        "compositionEndWeekdays": [
+            "Thursday"
+        ],
+        "compositionEndTimeOfDay": 55800,
+        "decompositionEndWeekdays": [
+            "Sunday"
+        ],
+        "decompositionEndTimeOfDay": 81720,
+        "runDuration": 285120,
+        "runLength": 597967,
+        "transportplanElements": [
+            {
+                "blockName": "LLW.0010-LHG-1-53358-1",
+                "fromInfrastructureLocation": {
+                    "code": "LLW",
+                    "countryNumber": "80",
+                    "locationNumber": "234575",
+                    "freightCarLocationNumber": null,
+                    "name": "Leipzig-Wahren",
+                    "latitude": 51.380421,
+                    "longitude": 12.322542,
+                    "objectKeyAlpha": "LEIPZIG-WAHREN",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "16279",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "LHG",
+                    "countryNumber": "80",
+                    "locationNumber": "230011",
+                    "freightCarLocationNumber": null,
+                    "name": "Halle (Saale) Gbf",
+                    "latitude": 51.483539,
+                    "longitude": 11.986633,
+                    "objectKeyAlpha": "HALLE(SAALE) GBF",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14325",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Thursday"
+                ],
+                "compositionEndTimeOfDay": 55800,
+                "departureWeekdays": [
+                    "Thursday"
+                ],
+                "departureTimeOfDay": 75780,
+                "arrivalWeekdays": [
+                    "Thursday"
+                ],
+                "arrivalTimeOfDay": 78300,
+                "decompositionEndWeekdays": [
+                    "Thursday"
+                ],
+                "decompositionEndTimeOfDay": 80460,
+                "runDuration": 24660,
+                "runLength": 27811,
+                "trainsetLength": 300,
+                "trainsetWeight": 700,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "53358",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "56.1"
+            },
+            {
+                "blockName": "LHG-HSR A-3-51810-1",
+                "fromInfrastructureLocation": {
+                    "code": "LHG",
+                    "countryNumber": "80",
+                    "locationNumber": "230011",
+                    "freightCarLocationNumber": null,
+                    "name": "Halle (Saale) Gbf",
+                    "latitude": 51.483539,
+                    "longitude": 11.986633,
+                    "objectKeyAlpha": "HALLE(SAALE) GBF",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14325",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "HSR A",
+                    "countryNumber": "80",
+                    "locationNumber": "135863",
+                    "freightCarLocationNumber": null,
+                    "name": "SEELZE RBF OST",
+                    "latitude": 52.3923,
+                    "longitude": 9.62271,
+                    "objectKeyAlpha": "SEELZE OST",
+                    "objectKeySequence": 2,
+                    "tafTsiPrimaryCode": null,
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Friday"
+                ],
+                "compositionEndTimeOfDay": 18000,
+                "departureWeekdays": [
+                    "Friday"
+                ],
+                "departureTimeOfDay": 27420,
+                "arrivalWeekdays": [
+                    "Friday"
+                ],
+                "arrivalTimeOfDay": 42780,
+                "decompositionEndWeekdays": [
+                    "Friday"
+                ],
+                "decompositionEndTimeOfDay": 48600,
+                "runDuration": 30600,
+                "runLength": 250029,
+                "trainsetLength": 610,
+                "trainsetWeight": 1600,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "51810",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            },
+            {
+                "blockName": "HSR A-EHGV-51122-1",
+                "fromInfrastructureLocation": {
+                    "code": "HSR A",
+                    "countryNumber": "80",
+                    "locationNumber": "135863",
+                    "freightCarLocationNumber": null,
+                    "name": "SEELZE RBF OST",
+                    "latitude": 52.3923,
+                    "longitude": 9.62271,
+                    "objectKeyAlpha": "SEELZE OST",
+                    "objectKeySequence": 2,
+                    "tafTsiPrimaryCode": null,
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "EHGV",
+                    "countryNumber": "80",
+                    "locationNumber": "080655",
+                    "freightCarLocationNumber": null,
+                    "name": "Hagen-Vorhalle",
+                    "latitude": 51.388203,
+                    "longitude": 7.433703,
+                    "objectKeyAlpha": "HAGEN-VORHALLE",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14267",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Friday"
+                ],
+                "compositionEndTimeOfDay": -8100,
+                "departureWeekdays": [
+                    "Saturday"
+                ],
+                "departureTimeOfDay": 4020,
+                "arrivalWeekdays": [
+                    "Saturday"
+                ],
+                "arrivalTimeOfDay": 18480,
+                "decompositionEndWeekdays": [
+                    "Saturday"
+                ],
+                "decompositionEndTimeOfDay": 21360,
+                "runDuration": 29460,
+                "runLength": 223434,
+                "trainsetLength": 700,
+                "trainsetWeight": 2370,
+                "maxVelocity": 27.77777777777778,
+                "trainNumber": "51122",
+                "combinedTrafficCoding": "P/C400",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            },
+            {
+                "blockName": "EHGV-EKT-2-[Ort]-51325-1",
+                "fromInfrastructureLocation": {
+                    "code": "EHGV",
+                    "countryNumber": "80",
+                    "locationNumber": "080655",
+                    "freightCarLocationNumber": null,
+                    "name": "Hagen-Vorhalle",
+                    "latitude": 51.388203,
+                    "longitude": 7.433703,
+                    "objectKeyAlpha": "HAGEN-VORHALLE",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "14267",
+                    "tafTsiSubsidiaryType": null
+                },
+                "toInfrastructureLocation": {
+                    "code": "EKT",
+                    "countryNumber": "80",
+                    "locationNumber": "082560",
+                    "freightCarLocationNumber": null,
+                    "name": "Kreuztal",
+                    "latitude": 50.95603,
+                    "longitude": 7.991842,
+                    "objectKeyAlpha": "KREUZTAL",
+                    "objectKeySequence": 1,
+                    "tafTsiPrimaryCode": "15896",
+                    "tafTsiSubsidiaryType": null
+                },
+                "compositionEndWeekdays": [
+                    "Saturday"
+                ],
+                "compositionEndTimeOfDay": -16200,
+                "departureWeekdays": [
+                    "Sunday"
+                ],
+                "departureTimeOfDay": 69060,
+                "arrivalWeekdays": [
+                    "Sunday"
+                ],
+                "arrivalTimeOfDay": 81120,
+                "decompositionEndWeekdays": [
+                    "Sunday"
+                ],
+                "decompositionEndTimeOfDay": 81720,
+                "runDuration": 97920,
+                "runLength": 96693,
+                "trainsetLength": 550,
+                "trainsetWeight": 1970,
+                "maxVelocity": 25,
+                "trainNumber": "51325",
+                "combinedTrafficCoding": "P/C375",
+                "linkClass": "D4",
+                "trainCategory": "55.1"
+            }
+        ]
+    }
+]
